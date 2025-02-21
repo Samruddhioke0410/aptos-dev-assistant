@@ -10,7 +10,11 @@ An AI-powered chatbot for Aptos developers, providing accurate answers from offi
 - Aptos-branded UI
 - Easy integration with existing documentation
 
-## Setup
+## Setup to run locally
+Prerequisites
+Node.js (v18+)
+Pinecone API key
+OpenAI API key
 
 1. Clone the repository
    git clone https://github.com/Samruddhioke0410/aptos-dev-assistant.git
